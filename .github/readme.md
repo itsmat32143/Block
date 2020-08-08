@@ -13,15 +13,15 @@ Microsoft - [https://itsmat32143.github.io/Block/GAFAM/Microsoft](https://itsmat
 
 # Streaming Services
 ***
-Apple TV - [https://itsmat32143.github.io/Block/Streaming/Apple TV/](https://itsmat32143.github.io/Block/Streaming/Apple TV/)
+Apple TV - [https://itsmat32143.github.io/Block/Streaming/AppleTV](https://itsmat32143.github.io/Block/Streaming/AppleTV)
 
-BBC iPlayer - [https://itsmat32143.github.io/Block/Streaming/BBC iPlayer/](https://itsmat32143.github.io/Block/Streaming/BBC iPlayer/)
+BBC iPlayer - [https://itsmat32143.github.io/Block/Streaming/BBCiPlayer](https://itsmat32143.github.io/Block/Streaming/BBCiPlayer)
 
-Channel 4 - [https://itsmat32143.github.io/Block/Streaming/Channel 4/](https://itsmat32143.github.io/Block/Streaming/Channel 4/)
+Channel 4 - [https://itsmat32143.github.io/Block/Streaming/Channel4](https://itsmat32143.github.io/Block/Streaming/Channel4)
 
-Channel 5 - [https://itsmat32143.github.io/Block/Streaming/Channel 5/](https://itsmat32143.github.io/Block/Streaming/Channel 5/)
+Channel 5 - [https://itsmat32143.github.io/Block/Streaming/Channel5](https://itsmat32143.github.io/Block/Streaming/Channel5)
 
-Disney+ - [https://itsmat32143.github.io/Block/Streaming/Disney +/](https://itsmat32143.github.io/Block/Streaming/Disney +/)
+Disney+ - [https://itsmat32143.github.io/Block/Streaming/Disney+](https://itsmat32143.github.io/Block/Streaming/Disney+)
 
 Freeview - [https://itsmat32143.github.io/Block/Streaming/Freeview](https://itsmat32143.github.io/Block/Streaming/Freeview)
 
@@ -33,7 +33,7 @@ ITV - [https://itsmat32143.github.io/Block/Streaming/ITV](https://itsmat32143.gi
 
 Netflix - [https://itsmat32143.github.io/Block/Streaming/Netflix](https://itsmat32143.github.io/Block/Streaming/Netflix)
 
-Peacock TV - [https://itsmat32143.github.io/Block/Streaming/Peacock TV/](https://itsmat32143.github.io/Block/Streaming/Peacock TV/)
+Peacock TV - [https://itsmat32143.github.io/Block/Streaming/PeacockTV](https://itsmat32143.github.io/Block/Streaming/PeacockTV)
 
 
 # Streaming Services
