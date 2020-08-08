@@ -11,40 +11,17 @@ Apple - [https://itsmat32143.github.io/Block/GAFAM/Apple](https://itsmat32143.gi
 Microsoft - [https://itsmat32143.github.io/Block/GAFAM/Microsoft](https://itsmat32143.github.io/Block/GAFAM/Microsoft)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Streaming Services
 ***
-Apple TV - [https://itsmat32143.github.io/Block/Streaming/Apple%20TV](https://itsmat32143.github.io/Block/Streaming/Apple%20TV)
+Apple TV - [https://itsmat32143.github.io/Block/Streaming/Apple TV](https://itsmat32143.github.io/Block/Streaming/Apple TV)
 
-BBC iPlayer - [https://itsmat32143.github.io/Block/Streaming/BBC%20iPlayer](https://itsmat32143.github.io/Block/Streaming/BBC%20iPlayer)
+BBC iPlayer - [https://itsmat32143.github.io/Block/Streaming/BBC iPlayer](https://itsmat32143.github.io/Block/Streaming/BBC iPlayer)
 
-Channel 4 - [https://itsmat32143.github.io/Block/Streaming/Channel%204](https://itsmat32143.github.io/Block/Streaming/Channel%204)
+Channel 4 - [https://itsmat32143.github.io/Block/Streaming/Channel 4](https://itsmat32143.github.io/Block/Streaming/Channel 4)
 
-Channel 5 - [https://itsmat32143.github.io/Block/Streaming/Channel%205](https://itsmat32143.github.io/Block/Streaming/Channel%205)
+Channel 5 - [https://itsmat32143.github.io/Block/Streaming/Channel 5](https://itsmat32143.github.io/Block/Streaming/Channel 5)
 
-Disney+ - [https://itsmat32143.github.io/Block/Streaming/Disney%2B](https://itsmat32143.github.io/Block/Streaming/Disney%2B)
+Disney+ - [https://itsmat32143.github.io/Block/Streaming/Disney +](https://itsmat32143.github.io/Block/Streaming/Disney +)
 
 Freeview - [https://itsmat32143.github.io/Block/Streaming/Freeview](https://itsmat32143.github.io/Block/Streaming/Freeview)
 
@@ -56,14 +33,15 @@ ITV - [https://itsmat32143.github.io/Block/Streaming/ITV](https://itsmat32143.gi
 
 Netflix - [https://itsmat32143.github.io/Block/Streaming/Netflix](https://itsmat32143.github.io/Block/Streaming/Netflix)
 
-Peacock TV - [https://itsmat32143.github.io/Block/Streaming/Netflix](https://itsmat32143.github.io/Block/Streaming/Netflix)
+Peacock TV - [https://itsmat32143.github.io/Block/Streaming/Peacock TV](https://itsmat32143.github.io/Block/Streaming/Peacock TV)
+
 
 # Streaming Services
 ***
 Pinterest - [https://itsmat32143.github.io/Block/Social Media/Pinterest](https://itsmat32143.github.io/Block/Streaming/Pinterest)
 
-Snapchat - 
+Snapchat - [https://itsmat32143.github.io/Block/Social Media/Snapchat](https://itsmat32143.github.io/Block/Streaming/Snapchat)
 
-TikTok - 
+TikTok - [https://itsmat32143.github.io/Block/Social Media/TikTok](https://itsmat32143.github.io/Block/Streaming/TikTok)
 
-Twitter - 
+Twitter - [https://itsmat32143.github.io/Block/Social Media/Twitter](https://itsmat32143.github.io/Block/Streaming/Twitter)
