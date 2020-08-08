@@ -2,11 +2,11 @@
 ***
 Google - [https://itsmat32143.github.io/Block/GAFAM/Google](https://itsmat32143.github.io/Block/GAFAM/Google)
 
-Amazon - [https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)
+Apple - [https://itsmat32143.github.io/Block/GAFAM/Apple](https://itsmat32143.github.io/Block/GAFAM/Apple)
 
 Facebook - [https://itsmat32143.github.io/Block/GAFAM/Facebook](https://itsmat32143.github.io/Block/GAFAM/Facebook)
 
-Apple - [https://itsmat32143.github.io/Block/GAFAM/Apple](https://itsmat32143.github.io/Block/GAFAM/Apple)
+Amazon - [https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)
 
 Microsoft - [https://itsmat32143.github.io/Block/GAFAM/Microsoft](https://itsmat32143.github.io/Block/GAFAM/Microsoft)
 
