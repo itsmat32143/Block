@@ -1,36 +1,38 @@
-<p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
-</p>
-
-<h1 align="center">Block Lists</h1>
-
-# Whats Your DNS
-***
-[Check Your DNS](http://www.whatsmydnsserver.com)
-
-DNS Providers - [https://raw.githubusercontent.com/itsmat32143/Block-Lists/master/DNS%20Providers](https://raw.githubusercontent.com/itsmat32143/Block-Lists/master/DNS%20Providers)
-
-Internet DNS - [https://raw.githubusercontent.com/itsmat32143/Block-Lists/master/DNS%20Internet%20Providers](https://raw.githubusercontent.com/itsmat32143/Block-Lists/master/DNS%20Internet%20Providers)
-
 # GAFAM
 ***
-### Google - [https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt](https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt)
+Google - [https://itsmat32143.github.io/Block/GAFAM/Google](https://itsmat32143.github.io/Block/GAFAM/Google)
 
-Extra - [https://itsmat32143.github.io/Block/GAFAM/Google](https://itsmat32143.github.io/Block/GAFAM/Google)
+Amazon - [https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)
 
-### Amazon - [https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/amazon.txt](https://raw.githubusercontent.com/nickspaargaren/no-amazon/master/amazon.txt)
+Facebook - [https://itsmat32143.github.io/Block/GAFAM/Facebook](https://itsmat32143.github.io/Block/GAFAM/Facebook)
 
-Extra - [https://itsmat32143.github.io/Block/GAFAM/Amazon](https://itsmat32143.github.io/Block/GAFAM/Amazon)
+Apple - [https://itsmat32143.github.io/Block/GAFAM/Apple](https://itsmat32143.github.io/Block/GAFAM/Apple)
 
-### Facebook - [https://itsmat32143.github.io/Block/GAFAM/Facebook](https://itsmat32143.github.io/Block/GAFAM/Facebook/Facebook)
+Microsoft - [https://itsmat32143.github.io/Block/GAFAM/Microsoft](https://itsmat32143.github.io/Block/GAFAM/Microsoft)
 
-Instagram - [https://itsmat32143.github.io/Block/GAFAM/Instagram](https://itsmat32143.github.io/Block/GAFAM/Facebook/Instagram)
 
-WhatsApp - [https://itsmat32143.github.io/Block/GAFAM/WhatsApp](https://itsmat32143.github.io/Block/GAFAM/Facebook/WhatsApp)
 
-### Apple - [https://itsmat32143.github.io/Block/GAFAM/Apple](https://itsmat32143.github.io/Block/GAFAM/Apple)
 
-### Microsoft - [https://itsmat32143.github.io/Block/GAFAM/Microsoft](https://itsmat32143.github.io/Block/GAFAM/Microsoft)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Streaming Services
 ***
