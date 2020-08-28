@@ -36,7 +36,7 @@ Netflix - [https://itsmat32143.github.io/Block/Streaming/Netflix](https://itsmat
 Peacock TV - [https://itsmat32143.github.io/Block/Streaming/PeacockTV](https://itsmat32143.github.io/Block/Streaming/PeacockTV)
 
 
-# Streaming Services
+# Social Media
 ***
 Pinterest - [https://itsmat32143.github.io/Block/Social Media/Pinterest](https://itsmat32143.github.io/Block/Streaming/Pinterest)
 
