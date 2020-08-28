@@ -1,10 +1,3 @@
-<head> 
-<title>Block</title>
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">   
-<center>  
-</head>
-
-
 # Covid 19
 ***
 Covid 19 - [https://itsmat32143.github.io/Block/Covid](https://itsmat32143.github.io/Block/Covid)
